@@ -18,4 +18,9 @@ QuizApp is a dynamic and interactive quiz application built using Jetpack Compos
 - **Customizable Layouts**: Utilizes various Jetpack Compose components to create a visually appealing and easy-to-navigate layout.
 
 
-https://github.com/MJ441/quiz-app
+Application repository Link- https://github.com/MJ441/quiz-app
+
+
+This JSON file contains structured quiz data for QuizApp, including questions, multiple-choice answers, and correct answers. Each question object includes the question text, a list of choices, and the correct answer index, facilitating dynamic loading and real-time user interaction in the app.
+
+JSON Data Link - https://mj441.github.io/JSON.q/qustion.json

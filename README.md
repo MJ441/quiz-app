@@ -24,3 +24,20 @@ Application repository Link- https://github.com/MJ441/quiz-app
 This JSON file contains structured quiz data for QuizApp, including questions, multiple-choice answers, and correct answers. Each question object includes the question text, a list of choices, and the correct answer index, facilitating dynamic loading and real-time user interaction in the app.
 
 JSON Data Link - https://mj441.github.io/JSON.q/qustion.json
+
+
+application Screenshots -
+
+https://github.com/MJ441/quiz-app/blob/master/Screenshot_20240718-003144~2.png
+
+
+https://github.com/MJ441/quiz-app/blob/master/Screenshot_20240718-003150~2.png
+
+
+
+
+https://github.com/MJ441/quiz-app/blob/master/Screenshot_20240718-003253~2.png
+
+
+https://github.com/MJ441/quiz-app/blob/master/Screenshot_20240718-003340~2.png
+

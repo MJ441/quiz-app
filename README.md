@@ -41,3 +41,10 @@ https://github.com/MJ441/quiz-app/blob/master/Screenshot_20240718-003253~2.png
 
 https://github.com/MJ441/quiz-app/blob/master/Screenshot_20240718-003340~2.png
 
+
+# 2nd project 
+
+
+# Weather App 🌤️ 
+WEATHER APP LINK -
+CLICK ME -  [WEATHER APP ](https://github.com/MJ441/Weather-App/tree/master)

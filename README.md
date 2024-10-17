@@ -46,5 +46,5 @@ https://github.com/MJ441/quiz-app/blob/master/Screenshot_20240718-003340~2.png
 
 
 # Weather App 🌤️ 
-WEATHER APP LINK -
-CLICK ME -  [WEATHER APP ](https://github.com/MJ441/Weather-App/tree/master)
+ LINK -
+CLICK ME -  [WEATHER APP ]( https://mj441.github.io/Weather-App/)
